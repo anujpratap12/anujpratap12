@@ -1,5 +1,11 @@
 Hi, I'm Anuj 👋
 
-Final year Computer Science student at UPES Dehradun interested in AI, Machine Learning and Computer Vision.
+Final year Computer Science student at UPES Dehradun interested in AI and Machine Learning.
 
-I enjoy building practical ML applications and exploring real-world problems using data and computer vision.
+Skills: Python • Machine Learning • Deep Learning • PyTorch • OpenCV • Flask • Computer Vision
+
+Projects:
+Deepfake Image Detection (ResNet18)
+Diabetes Treatment Planner
+Lane Detection Android App
+Intelligent Registration System Automation
